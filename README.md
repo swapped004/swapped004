@@ -1,7 +1,6 @@
 # 💫 About Me:
-
- - I am currently studying CS at Bangladesh University of Engineering and Technology as of May, 2023
  - I love to code
+ - I am currently studying CS at Bangladesh University of Engineering and Technology as of May, 2023
  - I have got cracked aim in valorant but am hardstuck gold 'cause my friends suck
 
 
