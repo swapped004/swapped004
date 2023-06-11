@@ -8,7 +8,7 @@
 # 💫 About Me:
  - I love to code
  - I am currently studying CS at Bangladesh University of Engineering and Technology as of May, 2023
- - I have got cracked aim in valorant but am hardstuck gold 'cause my friends suck
+ - I have got cracked aim in valorant but am hardstuck gold 'cause my friends suck (update: I finally reached plat :)) 
 
 
 ## 🌐 Socials:
