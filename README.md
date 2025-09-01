@@ -8,7 +8,8 @@
 # 💫 About Me:
  - I love to code and automte things when I can
  - I studied CS at Bangladesh University of Engineering and Technology and graduated in May, 2023
- - Currenly I am working as Software Developer at CodeCrafters International Ltd., a US-based company
+ - I worked as Software Developer at CodeCrafters International Ltd., a US-based company
+ - Currently, I am pursuing a PhD in CS at Stony Brook University
 
 ## 🌐 Socials:
 [![Website](https://img.shields.io/badge/Website-%230077B5.svg?logo=googlechrome&logoColor=white))](https://swapped004.github.io/)[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swapnil.dey.52) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swapnil-dey) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17806907) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/swapnil004) 
